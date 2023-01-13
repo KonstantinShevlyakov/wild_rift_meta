@@ -2,8 +2,9 @@
 import discord
 from discord.ext import commands
 import asyncio
+import os
 
-TOKEN = #'MTA2MzQ5MTkxODk1ODQ0NDU2NQ.GGO5iK.JGKWAuI0rlKn9YGtwZnbaJHJ4eFA3sPPjrtABo'
+TOKEN =
 
 bot = commands.Bot(intents=discord.Intents.all(), command_prefix='$')
 
