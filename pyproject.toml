@@ -11,6 +11,8 @@ wildrift = "wildrift.scripts.wildrift:main"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+lxml = "^4.9.2"
+bs4 = "^0.0.1"
 
 
 [build-system]
