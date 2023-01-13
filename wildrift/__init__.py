@@ -1,6 +1,6 @@
-from .scripts import wildrift
+from .scripts import get_meta
 
 
 __all__ = (
-    'wildrift',
+    'get_meta',
 )

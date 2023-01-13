@@ -1929,7 +1929,7 @@
 <nav class="foot-nav">
 <div class="foot-nav__center">
 <h3>Mobafire Network</h3>
- <div class="items">
+<div class="items">
 <span><a href="https://www.mobafire.com" target="_blank">MOBAFire.com</a></span>
 <span><a href="https://www.counterstats.net" target="_blank">CounterStats.net</a></span>
 <span><a href="https://www.mobafire.com/teamfight-tactics" target="_blank">TeamFight Tactics</a></span>
@@ -1958,7 +1958,7 @@
 <div class="light-links">
 <a href="/advertising">Advertising</a>
 <a href="https://www.mobafire.com/jobs" target="_blank">@jobs</a>
-<a href="/cdn-cgi/l/email-protection#6616071412080314150e0f161526110f0a02140f0012000f14034805090b">Partnerships</a>
+<a href="/cdn-cgi/l/email-protection#e2928390968c8790918a8b9291a2958b8e86908b8496848b9087cc818d8f">Partnerships</a>
 </div>
 </div>
 <div class="foot-nav__side foot-nav__side--switch">
@@ -1972,13 +1972,13 @@
 <h3>#Social</h3>
 <a class="foot-nav__side__logo" href="https://twitter.com/wildriftfire" target="_blank" rel="noopener"><img data-original="/images/footer-logo-tw.png" src="/images/footer-logo-tw.png" alt="WildRiftFire Twitter"></a>
 <a class="foot-nav__side__logo facebook" href="https://www.facebook.com/wildriftfire" target="_blank" rel="noopener"><img data-original="/images/footer-logo-fb.png" src="/images/footer-logo-fb.png" alt="WildRiftFire Facebook"></a>
- <div class="light-links">
+<div class="light-links">
 <a href="/feedback">Contact @Support</a>
 </div>
 <div class="light-links-mobile">
 <a href="/advertising">Advertising</a>
 <a href="https://www.mobafire.com/jobs">@jobs</a>
-<a href="/cdn-cgi/l/email-protection#7b0b1a090f151e090813120b083b0c12171f09121d0f1d12091e55181416">Partnerships</a>
+<a href="/cdn-cgi/l/email-protection#45352437312b2037362d2c353605322c2921372c2331232c37206b262a28">Partnerships</a>
 <a href="/user-agreement">User Agreement</a>
 <a href="/privacy-policy">Privacy Policy</a>
 <a href="/feedback">Contact @Support</a>

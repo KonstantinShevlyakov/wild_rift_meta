@@ -47,3 +47,11 @@ def get_splus_tier():
         soup = BeautifulSoup(contents, 'html.parser')
         splus = soup.find("div", attrs={"class": "tier splus"})
     return get_meta(splus)
+
+
+def main():
+    get_splus_tier()
+
+
+if __name__ == '__main__':
+    main()
