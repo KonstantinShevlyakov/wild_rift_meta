@@ -1958,7 +1958,7 @@
 <div class="light-links">
 <a href="/advertising">Advertising</a>
 <a href="https://www.mobafire.com/jobs" target="_blank">@jobs</a>
-<a href="/cdn-cgi/l/email-protection#80f0e1f2f4eee5f2f3e8e9f0f3c0f7e9ece4f2e9e6f4e6e9f2e5aee3efed">Partnerships</a>
+<a href="/cdn-cgi/l/email-protection#6e1e0f1c1a000b1c1d06071e1d2e1907020a1c07081a08071c0b400d0103">Partnerships</a>
 </div>
 </div>
 <div class="foot-nav__side foot-nav__side--switch">
@@ -1978,7 +1978,7 @@
 <div class="light-links-mobile">
 <a href="/advertising">Advertising</a>
 <a href="https://www.mobafire.com/jobs">@jobs</a>
-<a href="/cdn-cgi/l/email-protection#3747564543595245445f5e474477405e5b53455e5143515e45521954585a">Partnerships</a>
+<a href="/cdn-cgi/l/email-protection#35455447415b5047465d5c454675425c5951475c5341535c47501b565a58">Partnerships</a>
 <a href="/user-agreement">User Agreement</a>
 <a href="/privacy-policy">Privacy Policy</a>
 <a href="/feedback">Contact @Support</a>

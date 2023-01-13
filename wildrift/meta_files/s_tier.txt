@@ -1,0 +1,1 @@
+{'Jungle': ['Wukong', 'Aatrox', 'Yone', 'Lee Sin', "Kha'Zix", 'Olaf', 'Lillia'], 'Solo': ['Wukong', 'Renekton', 'Akali', 'Gwen', 'Jax', 'Fiora', 'Jayce', 'Aatrox', 'Garen'], 'Support': ['Karma', 'Nami'], 'Mid': ['Ahri', 'Diana', 'Yone', 'Kassadin', 'Karma', 'Akali', 'Vex'], 'ADC': ['Lucian', 'Caitlyn', 'Ezreal', 'Tristana', 'Varus']}

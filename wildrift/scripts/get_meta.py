@@ -1,3 +1,4 @@
+#!usr/bin/env python3
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -39,7 +40,8 @@ def get_meta(text):
     full_meta_dict['Support'] = support
     full_meta_dict['Mid'] = mid
     full_meta_dict['ADC'] = duo
-    return full_meta_dict
+    meta_file = open('wildrift/meta_files/s_tier.txt', 'w')
+    return meta_file.write(str(full_meta_dict))
     
     
 def get_splus_tier():
