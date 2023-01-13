@@ -6,5 +6,5 @@ def main():
     get_splus_tier()
     
     
-if __name__ == 'main':
+if __name__ == '__main__':
     main()

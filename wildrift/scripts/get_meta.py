@@ -11,7 +11,6 @@ def get_response():
 
 
 def get_meta(text):
-    full_meta_dict = {}
     roles_list = []
     champions_list = []
     jungle, mid, solo, duo, support = [], [], [], [], []
@@ -35,14 +34,11 @@ def get_meta(text):
             support.append(elem[1])
         else:
             raise TypeError
-    full_meta_dict['Jungle'] = jungle
-    full_meta_dict['Solo'] = solo
-    full_meta_dict['Support'] = support
-    full_meta_dict['Mid'] = mid
-    full_meta_dict['ADC'] = duo
     meta_file = open('wildrift/meta_files/s_tier.txt', 'w')
-    return meta_file.write(str(full_meta_dict))
-    
+    meta_file.write(f'Jungle: {jungle}\nSupport: {support}\n'
+                    f'Solo: {solo}\nDuo:{duo}\n'
+                    f'Mid: {mid}')
+    pass
     
 def get_splus_tier():
     get_response()
