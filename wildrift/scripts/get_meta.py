@@ -1,8 +1,6 @@
 import requests
-import json
 from bs4 import BeautifulSoup
 import re
-
 
 
 def get_response():
@@ -41,10 +39,9 @@ def get_meta(text):
     full_meta_dict['Support'] = support
     full_meta_dict['Mid'] = mid
     full_meta_dict['ADC'] = duo
-    print(full_meta_dict)
+    return full_meta_dict
     
     
-        
 def get_splus_tier():
     get_response()
     with open('wildrift/meta_files/meta.txt', 'r') as meta:
