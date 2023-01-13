@@ -13,6 +13,7 @@ wildrift = "wildrift.scripts.wildrift:main"
 python = "^3.10"
 lxml = "^4.9.2"
 bs4 = "^0.0.1"
+discord = "^2.1.0"
 
 
 [build-system]
