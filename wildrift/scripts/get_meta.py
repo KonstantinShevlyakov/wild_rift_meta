@@ -16,7 +16,9 @@ def get_meta(text):
     jungle, mid, solo, duo, support = [], [], [], [], []
     roles = text.findAll("a", attrs={"class": "ico-holder"})
     for elem in roles:
-        roles_list.append(re.search(r"Jungle|Solo|Support|Mid|Duo", str(elem)).group(0))
+        roles_list.append(
+            re.search(r"Jungle|Solo|Support|Mid|Duo", str(elem)).group(0)
+        )
     champions = text.findAll("span")
     for elem in champions:
         champions_list.append(elem.text.strip())
@@ -39,7 +41,8 @@ def get_meta(text):
                     f'Solo: {solo}\nDuo:{duo}\n'
                     f'Mid: {mid}')
     pass
-    
+
+
 def get_splus_tier():
     get_response()
     with open('wildrift/meta_files/meta.txt', 'r') as meta:
