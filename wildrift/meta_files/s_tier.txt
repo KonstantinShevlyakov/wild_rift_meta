@@ -1,5 +1,5 @@
 Jungle: ['Wukong', 'Aatrox', 'Yone', 'Lee Sin', "Kha'Zix", 'Olaf', 'Lillia']
 Support: ['Karma', 'Nami']
-Solo: ['Wukong', 'Renekton', 'Akali', 'Gwen', 'Jax', 'Fiora', 'Jayce', 'Aatrox', 'Garen']
-Duo:['Lucian', 'Caitlyn', 'Ezreal', 'Tristana', 'Varus']
-Mid: ['Ahri', 'Diana', 'Yone', 'Kassadin', 'Karma', 'Akali', 'Vex']
+Solo: ['Wukong', 'Renekton', 'Akali', 'Jax', 'Fiora', 'Jayce', 'Aatrox', 'Garen', 'Camille']
+Duo:['Lucian', 'Tristana', "Kai'Sa"]
+Mid: ['Ahri', 'Diana', 'Yone', 'Kassadin', 'Karma', 'Akali', 'Vex', 'Zoe']

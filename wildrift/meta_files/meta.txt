@@ -410,26 +410,6 @@
 </div>
 <span>Nami</span>
 </a>
-<a href="/guide/caitlyn" class="ico-holder" data-role="Duo" data-id="67" data-guide-id="122">
-<div class="img-bg">
-<img class="lane" src="/images/lanes/white-duo.png" alt="Duo">
-<img class="keystone" src="/images/runes/lethal-tempo.png" alt="lethal-tempo">
-<div class="item-holder">
-<img src="https://www.mobafire.com/images/champion/square/caitlyn.png" alt="Caitlyn">
-</div>
-</div>
-<span>Caitlyn</span>
-</a>
-<a href="/guide/ezreal" class="ico-holder" data-role="Duo" data-id="47" data-guide-id="44">
-<div class="img-bg">
-<img class="lane" src="/images/lanes/white-duo.png" alt="Duo">
-<img class="keystone" src="/images/runes/conqueror.png" alt="conqueror">
-<div class="item-holder">
-<img src="https://www.mobafire.com/images/champion/square/ezreal.png" alt="Ezreal">
-</div>
-</div>
-<span>Ezreal</span>
-</a>
 <a href="/guide/akali" class="ico-holder" data-role="Mid" data-id="50" data-guide-id="96">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-mid.png" alt="Mid">
@@ -460,16 +440,6 @@
 </div>
 <span>Akali</span>
 </a>
-<a href="/guide/gwen" class="ico-holder" data-role="Solo" data-id="171" data-guide-id="166">
-<div class="img-bg">
-<img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
-<img class="keystone" src="/images/runes/conqueror.png" alt="conqueror">
-<div class="item-holder">
-<img src="https://www.mobafire.com/images/champion/square/gwen.png" alt="Gwen">
-</div>
-</div>
-<span>Gwen</span>
-</a>
 <a href="/guide/jax" class="ico-holder" data-role="Solo" data-id="15" data-guide-id="52">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
@@ -493,7 +463,7 @@
 <a href="/guide/jayce" class="ico-holder" data-role="Solo" data-id="100" data-guide-id="123">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
-<img class="keystone" src="/images/runes/conqueror.png" alt="conqueror">
+<img class="keystone" src="/images/runes/electrocute.png" alt="electrocute">
 <div class="item-holder">
 <img src="https://www.mobafire.com/images/champion/square/jayce.png" alt="Jayce">
 </div>
@@ -520,15 +490,15 @@
 </div>
 <span>Tristana</span>
 </a>
-<a href="/guide/varus" class="ico-holder" data-role="Duo" data-id="97" data-guide-id="78">
+<a href="/guide/kaisa" class="ico-holder" data-role="Duo" data-id="145" data-guide-id="55">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-duo.png" alt="Duo">
-<img class="keystone" src="/images/runes/aery.png" alt="aery">
+<img class="keystone" src="/images/runes/lethal-tempo.png" alt="lethal-tempo">
 <div class="item-holder">
-<img src="https://www.mobafire.com/images/champion/square/varus.png" alt="Varus">
+<img src="https://www.mobafire.com/images/champion/square/kaisa.png" alt="Kai&#039;Sa">
 </div>
 </div>
-<span>Varus</span>
+<span>Kai&#039;Sa</span>
 </a>
 <a href="/guide/lillia" class="ico-holder" data-role="Jungle" data-id="154" data-guide-id="178">
 <div class="img-bg">
@@ -549,6 +519,26 @@
 </div>
 </div>
 <span>Garen</span>
+</a>
+<a href="/guide/zoe" class="ico-holder" data-role="Mid" data-id="140" data-guide-id="185">
+<div class="img-bg">
+<img class="lane" src="/images/lanes/white-mid.png" alt="Mid">
+<img class="keystone" src="/images/runes/electrocute.png" alt="electrocute">
+<div class="item-holder">
+<img src="https://www.mobafire.com/images/champion/square/zoe.png" alt="Zoe">
+</div>
+</div>
+<span>Zoe</span>
+</a>
+<a href="/guide/camille" class="ico-holder" data-role="Solo" data-id="134" data-guide-id="38">
+<div class="img-bg">
+<img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
+<img class="keystone" src="/images/runes/grasp-of-the-undying.png" alt="grasp-of-the-undying">
+<div class="item-holder">
+<img src="https://www.mobafire.com/images/champion/square/camille.png" alt="Camille">
+</div>
+</div>
+<span>Camille</span>
 </a>
 </div>
 <div class="notes-block">
@@ -661,7 +651,7 @@
 <a href="/guide/yasuo" class="ico-holder" data-role="Mid" data-id="117" data-guide-id="83">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-mid.png" alt="Mid">
-<img class="keystone" src="/images/runes/conqueror.png" alt="conqueror">
+<img class="keystone" src="/images/runes/lethal-tempo.png" alt="lethal-tempo">
 <div class="item-holder">
 <img src="https://www.mobafire.com/images/champion/square/yasuo.png" alt="Yasuo">
 </div>
@@ -748,7 +738,7 @@
 </div>
 <span>Vayne</span>
 </a>
-<a href="/guide/draven" class="ico-holder" data-role="Duo" data-id="99" data-guide-id="42">
+ <a href="/guide/draven" class="ico-holder" data-role="Duo" data-id="99" data-guide-id="42">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-duo.png" alt="Duo">
 <img class="keystone" src="/images/runes/conqueror.png" alt="conqueror">
@@ -823,7 +813,7 @@
 <img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
 <img class="keystone" src="/images/runes/grasp-of-the-undying.png" alt="grasp-of-the-undying">
 <div class="item-holder">
- <img src="https://www.mobafire.com/images/champion/square/gragas.png" alt="Gragas">
+<img src="https://www.mobafire.com/images/champion/square/gragas.png" alt="Gragas">
 </div>
 </div>
 <span>Gragas</span>
@@ -951,7 +941,7 @@
 <a href="/guide/jayce" class="ico-holder" data-role="Mid" data-id="100" data-guide-id="124">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-mid.png" alt="Mid">
-<img class="keystone" src="/images/runes/conqueror.png" alt="conqueror">
+<img class="keystone" src="/images/runes/electrocute.png" alt="electrocute">
 <div class="item-holder">
 <img src="https://www.mobafire.com/images/champion/square/jayce.png" alt="Jayce">
 </div>
@@ -998,23 +988,13 @@
 </div>
 <span>Kayn - Rhaast</span>
 </a>
- <a href="/guide/kaisa" class="ico-holder" data-role="Duo" data-id="145" data-guide-id="55">
-<div class="img-bg">
-<img class="lane" src="/images/lanes/white-duo.png" alt="Duo">
-<img class="keystone" src="/images/runes/lethal-tempo.png" alt="lethal-tempo">
-<div class="item-holder">
-<img src="https://www.mobafire.com/images/champion/square/kaisa.png" alt="Kai&#039;Sa">
-</div>
-</div>
-<span>Kai&#039;Sa</span>
-</a>
 <a href="/guide/xayah" class="ico-holder" data-role="Duo" data-id="135" data-guide-id="33">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-duo.png" alt="Duo">
 <img class="keystone" src="/images/runes/lethal-tempo.png" alt="lethal-tempo">
 <div class="item-holder">
 <img src="https://www.mobafire.com/images/champion/square/xayah.png" alt="Xayah">
-</div>
+ </div>
 </div>
 <span>Xayah</span>
 </a>
@@ -1028,20 +1008,10 @@
 </div>
 <span>Riven</span>
 </a>
-<a href="/guide/camille" class="ico-holder" data-role="Solo" data-id="134" data-guide-id="38">
-<div class="img-bg">
-<img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
-<img class="keystone" src="/images/runes/grasp-of-the-undying.png" alt="grasp-of-the-undying">
-<div class="item-holder">
-<img src="https://www.mobafire.com/images/champion/square/camille.png" alt="Camille">
-</div>
-</div>
-<span>Camille</span>
-</a>
 <a href="/guide/diana" class="ico-holder" data-role="Jungle" data-id="102" data-guide-id="170">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-jungle.png" alt="Jungle">
-<img class="keystone" src="/images/runes/conqueror.png" alt="conqueror">
+<img class="keystone" src="/images/runes/electrocute.png" alt="electrocute">
 <div class="item-holder">
 <img src="https://www.mobafire.com/images/champion/square/diana.png" alt="Diana">
 </div>
@@ -1078,12 +1048,62 @@
 </div>
 <span>Fizz</span>
 </a>
+<a href="/guide/ezreal" class="ico-holder" data-role="Duo" data-id="47" data-guide-id="44">
+<div class="img-bg">
+<img class="lane" src="/images/lanes/white-duo.png" alt="Duo">
+<img class="keystone" src="/images/runes/conqueror.png" alt="conqueror">
+<div class="item-holder">
+<img src="https://www.mobafire.com/images/champion/square/ezreal.png" alt="Ezreal">
+</div>
+</div>
+<span>Ezreal</span>
+</a>
+<a href="/guide/varus" class="ico-holder" data-role="Duo" data-id="97" data-guide-id="78">
+<div class="img-bg">
+<img class="lane" src="/images/lanes/white-duo.png" alt="Duo">
+<img class="keystone" src="/images/runes/aery.png" alt="aery">
+<div class="item-holder">
+<img src="https://www.mobafire.com/images/champion/square/varus.png" alt="Varus">
+</div>
+</div>
+<span>Varus</span>
+</a>
+<a href="/guide/caitlyn" class="ico-holder" data-role="Duo" data-id="67" data-guide-id="122">
+<div class="img-bg">
+<img class="lane" src="/images/lanes/white-duo.png" alt="Duo">
+<img class="keystone" src="/images/runes/lethal-tempo.png" alt="lethal-tempo">
+<div class="item-holder">
+<img src="https://www.mobafire.com/images/champion/square/caitlyn.png" alt="Caitlyn">
+</div>
+</div>
+<span>Caitlyn</span>
+</a>
+<a href="/guide/gwen" class="ico-holder" data-role="Solo" data-id="171" data-guide-id="166">
+<div class="img-bg">
+<img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
+<img class="keystone" src="/images/runes/conqueror.png" alt="conqueror">
+<div class="item-holder">
+<img src="https://www.mobafire.com/images/champion/square/gwen.png" alt="Gwen">
+</div>
+</div>
+<span>Gwen</span>
+</a>
+<a href="/guide/sion" class="ico-holder" data-role="Solo" data-id="6" data-guide-id="161">
+<div class="img-bg">
+<img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
+<img class="keystone" src="/images/runes/grasp-of-the-undying.png" alt="grasp-of-the-undying">
+<div class="item-holder">
+<img src="https://www.mobafire.com/images/champion/square/sion.png" alt="Sion">
+</div>
+</div>
+<span>Sion</span>
+</a>
 </div>
 <div class="notes-block">
 <span class="title s">S Tier</span>
 <span>These champions are superb at what they do. They are very powerful and effective and have the potential to carry games.</span>
 </div>
- </div>
+</div>
 <div class="wf-tier-list__tiers__block">
 <div class="tier aplus">
 <a href="/guide/kennen" class="ico-holder" data-role="Solo" data-id="49" data-guide-id="57">
@@ -1169,7 +1189,7 @@
 <a href="/guide/braum" class="ico-holder" data-role="Support" data-id="119" data-guide-id="37">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-support.png" alt="Support">
- <img class="keystone life" src="/images/runes/font-of-life.png" alt="font-of-life">
+<img class="keystone life" src="/images/runes/font-of-life.png" alt="font-of-life">
 <div class="item-holder">
 <img src="https://www.mobafire.com/images/champion/square/braum.png" alt="Braum">
 </div>
@@ -1246,16 +1266,6 @@
 </div>
 <span>Lux</span>
 </a>
-<a href="/guide/sion" class="ico-holder" data-role="Solo" data-id="6" data-guide-id="161">
-<div class="img-bg">
-<img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
-<img class="keystone" src="/images/runes/grasp-of-the-undying.png" alt="grasp-of-the-undying">
-<div class="item-holder">
-<img src="https://www.mobafire.com/images/champion/square/sion.png" alt="Sion">
-</div>
-</div>
-<span>Sion</span>
-</a>
 <a href="/guide/senna" class="ico-holder" data-role="Support" data-id="151" data-guide-id="107">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-support.png" alt="Support">
@@ -1299,7 +1309,7 @@
 <a href="/guide/warwick" class="ico-holder" data-role="Jungle" data-id="11" data-guide-id="173">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-jungle.png" alt="Jungle">
-<img class="keystone" src="/images/runes/conqueror.png" alt="conqueror">
+<img class="keystone" src="/images/runes/lethal-tempo.png" alt="lethal-tempo">
 <div class="item-holder">
 <img src="https://www.mobafire.com/images/champion/square/warwick.png" alt="Warwick">
 </div>
@@ -1564,6 +1574,16 @@
 </div>
 <span>Dr. Mundo</span>
 </a>
+<a href="/guide/singed" class="ico-holder" data-role="Solo" data-id="18" data-guide-id="71">
+<div class="img-bg">
+<img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
+<img class="keystone" src="/images/runes/fleet-footwork.png" alt="fleet-footwork">
+<div class="item-holder">
+<img src="https://www.mobafire.com/images/champion/square/singed.png" alt="Singed">
+</div>
+</div>
+<span>Singed</span>
+</a>
 </div>
 <div class="notes-block">
 <span class="title a">A Tier</span>
@@ -1642,16 +1662,6 @@
 </div>
 <span>Tryndamere</span>
 </a>
-<a href="/guide/singed" class="ico-holder" data-role="Solo" data-id="18" data-guide-id="71">
-<div class="img-bg">
-<img class="lane" src="/images/lanes/white-solo.png" alt="Baron">
-<img class="keystone" src="/images/runes/fleet-footwork.png" alt="fleet-footwork">
-<div class="item-holder">
-<img src="https://www.mobafire.com/images/champion/square/singed.png" alt="Singed">
-</div>
-</div>
-<span>Singed</span>
-</a>
 <a href="/guide/tryndamere" class="ico-holder" data-role="Jungle" data-id="14" data-guide-id="76">
 <div class="img-bg">
 <img class="lane" src="/images/lanes/white-jungle.png" alt="Jungle">
@@ -1679,7 +1689,7 @@
 <div class="item-holder">
 <img src="https://www.mobafire.com/images/champion/square/nasus.png" alt="Nasus">
 </div>
-</div>
+ </div>
 <span>Nasus</span>
 </a>
 <a href="/guide/master-yi" class="ico-holder" data-role="Jungle" data-id="3" data-guide-id="62">
@@ -1777,7 +1787,7 @@
 <h2>Tier List Explained</h2>
 <div class="wf-tier-list__tiers__block video">
 <div class="embed">
-<iframe width="100%" height="453" src="https://www.youtube.com/embed/MVz2Hpa7EFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="453" src="https://www.youtube.com/embed/dRcmfisojnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <span><a href="https://www.youtube.com/channel/UCENcTdPf7Or6mHoFDHJAoFQ">iTzSTU4RT</a> explains his reasoning behind the placement of each champion in the Wild Rift Tier List role by role. Take a deep dive into Wild Rift strategy and find out more about the current meta for each role. Use this knowledge and our tier list to improve your odds in champion select, and win more games!</span>
 </div>
 <div class="notes-block top">
@@ -1929,7 +1939,7 @@
 <nav class="foot-nav">
 <div class="foot-nav__center">
 <h3>Mobafire Network</h3>
- <div class="items">
+<div class="items">
 <span><a href="https://www.mobafire.com" target="_blank">MOBAFire.com</a></span>
 <span><a href="https://www.counterstats.net" target="_blank">CounterStats.net</a></span>
 <span><a href="https://www.mobafire.com/teamfight-tactics" target="_blank">TeamFight Tactics</a></span>
@@ -1958,7 +1968,7 @@
 <div class="light-links">
 <a href="/advertising">Advertising</a>
 <a href="https://www.mobafire.com/jobs" target="_blank">@jobs</a>
-<a href="/cdn-cgi/l/email-protection#abdbcad9dfc5ced9d8c3c2dbd8ebdcc2c7cfd9c2cddfcdc2d9ce85c8c4c6">Partnerships</a>
+<a href="/cdn-cgi/l/email-protection#9bebfae9eff5fee9e8f3f2ebe8dbecf2f7ffe9f2fdeffdf2e9feb5f8f4f6">Partnerships</a>
 </div>
 </div>
 <div class="foot-nav__side foot-nav__side--switch">
@@ -1972,13 +1982,13 @@
 <h3>#Social</h3>
 <a class="foot-nav__side__logo" href="https://twitter.com/wildriftfire" target="_blank" rel="noopener"><img data-original="/images/footer-logo-tw.png" src="/images/footer-logo-tw.png" alt="WildRiftFire Twitter"></a>
 <a class="foot-nav__side__logo facebook" href="https://www.facebook.com/wildriftfire" target="_blank" rel="noopener"><img data-original="/images/footer-logo-fb.png" src="/images/footer-logo-fb.png" alt="WildRiftFire Facebook"></a>
- <div class="light-links">
+<div class="light-links">
 <a href="/feedback">Contact @Support</a>
 </div>
 <div class="light-links-mobile">
 <a href="/advertising">Advertising</a>
 <a href="https://www.mobafire.com/jobs">@jobs</a>
-<a href="/cdn-cgi/l/email-protection#8afaebf8fee4eff8f9e2e3faf9cafde3e6eef8e3ecfeece3f8efa4e9e5e7">Partnerships</a>
+<a href="/cdn-cgi/l/email-protection#d4a4b5a6a0bab1a6a7bcbda4a794a3bdb8b0a6bdb2a0b2bda6b1fab7bbb9">Partnerships</a>
 <a href="/user-agreement">User Agreement</a>
 <a href="/privacy-policy">Privacy Policy</a>
 <a href="/feedback">Contact @Support</a>
